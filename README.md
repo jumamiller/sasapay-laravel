@@ -12,7 +12,7 @@ This package helps you integrate your laravel application with SasaPay APIs. The
 The package will help you integrate with the following APIs, available on SasaPay;
 
 - C2B (consumer to business)
-- B2C (business to cunsumer)
+- B2C (business to consumer)
 - WAAS (Wallet As A Service)
 - Reversal
 - Transaction status
